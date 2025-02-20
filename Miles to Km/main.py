@@ -18,8 +18,6 @@ window_height = int(screen_height * 0.2)
 window.geometry(f"{window_width}x{window_height}+{int(screen_width*0.35)}+{int(screen_height*0.3)}")
 window.config(padx=window_width // 20, pady=window_height // 20)
 
-
-
 miles_input = Entry(width=10)
 miles_input.grid(column=1, row=0, padx=window_width//40, pady=window_height//40)
 
