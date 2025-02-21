@@ -32,7 +32,8 @@ Ensure you have **Python** installed. Download it from [here](https://www.python
 3. **Run the script** using Python.  
 
 ## 🖼️ UI Preview  
-uploading ,Please wait
+![Pomodoro Timer Preview](Pomodoro/Preview.png)
+
 
 ## 🔮 Future Enhancements  
 - **Customizable session times** – Allow users to adjust work/break duration.  
