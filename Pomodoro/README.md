@@ -32,7 +32,7 @@ Ensure you have **Python** installed. Download it from [here](https://www.python
 3. **Run the script** using Python.  
 
 ## 🖼️ UI Preview  
-*(Add an actual screenshot here for better visualization)*  
+uploading ,Please wait
 
 ## 🔮 Future Enhancements  
 - **Customizable session times** – Allow users to adjust work/break duration.  
