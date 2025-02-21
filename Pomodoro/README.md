@@ -32,7 +32,7 @@ Ensure you have **Python** installed. Download it from [here](https://www.python
 3. **Run the script** using Python.  
 
 ## 🖼️ UI Preview  
-![Pomodoro Timer Preview](Pomodoro/Preview.png)
+![Pomodoro Timer Preview](Pomodoro/preview.png)
 
 
 ## 🔮 Future Enhancements  
